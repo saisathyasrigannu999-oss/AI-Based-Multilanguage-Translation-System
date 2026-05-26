@@ -4,3 +4,7 @@
 > The system sends the user’s input text to the selected translation API and retrieves the translated response in real time. The translated text is then displayed clearly on the screen for easy reading and understanding. The tool supports multiple languages, making it useful for students, travelers, and professionals who need quick language conversion.
 
 > Additional optional features can improve usability, such as a Copy Text button that allows users to copy the translated content instantly and a Text-to-Speech feature that reads the translated text aloud for pronunciation assistance. The project is designed with a clean and responsive interface using technologies like HTML, CSS, JavaScript, and Python or Flask for backend integration. This project demonstrates the practical implementation of APIs, frontend-backend communication, and real-time text processing in web development.
+>
+> <img width="875" height="613" alt="Image" src="https://github.com/user-attachments/assets/3a4bdc49-dd4e-4e6f-92b6-8a679d83db17" />
+
+<img width="813" height="778" alt="Image" src="https://github.com/user-attachments/assets/9d606cf0-d8db-4f21-8621-023b8be074fd" />
